@@ -1,0 +1,10 @@
+{
+  "name": "typedoc-windows-path-issue",
+  "scripts": {
+    "docs": "typedoc --options typedoc.js"
+  },
+  "license": "(MIT or CC0 1.0)",
+  "dependencies": {
+    "typedoc": "^0.28.1"
+  }
+}
